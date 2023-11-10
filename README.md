@@ -9,6 +9,7 @@ Steps for use from a Python REPL or command-line are as follows:
 4. Create a new Chrome Profile (or reuse one that has no Bookmarks)
 5. Follow [this brief GitHub tip](https://superuser.com/a/1101380/1255761) to move this folder of Bookmarks to your second, clean Chrome Profile. This involves opening both profiles in separate windows, Bookmark manager in both, and drag-and-dropping your desired folder of Jisho Bookmarks into the clean Chrome Profile's Bookmarks. Once your bookmarks are moved over, your screen should look similar to this reference:
 <img src='.github/images/clean_profile_jisho_bookmarks_example.png' width=270px height=200px>
+
 Lastly, enter Bookmark Manager in the clean Chrome Profile and `Export Bookmarks`. Save these to an html file of your choosing; you will need to tell `anki_deck_builder` where to find this file. When exporting, your screen should look similar to this reference:
 <img src='.github/images/how_to_export_bookmarks_example.png' width=270px height=200px>
 
